@@ -2,7 +2,7 @@ import requests
 import time
 API_URL = "http://localhost:5000/detect"
 
-IMAGE_PATH = "test_images/1462_Arus Lalu Lintas.jpg"
+IMAGE_PATH = "test_images/saikiran-kesari-qVULJ6acwe8-unsplash.jpg"
 URL_IMAGE = "https://s3-jaki.jakarta.go.id/jaki/report/media/bb1f5543-5bba-453c-8b12-7cb2ec2a7af2"
 
 '''
